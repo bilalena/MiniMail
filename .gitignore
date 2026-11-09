@@ -1,0 +1,18 @@
+# Compiled Java files
+bin/
+out/
+
+# Local Derby database
+mailDB/
+
+# Derby log
+derby.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+*.class
