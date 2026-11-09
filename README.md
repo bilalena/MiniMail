@@ -41,3 +41,8 @@ in the local database. Do not publish your database or real credentials.
 - Only supported text-based email formats are processed.
 - HTML and image-based email content are not fully supported.
 - The application is designed as a learning project.
+
+
+## Screenshot
+
+![MiniMail application](screenshots/minimail_screenshot.png)
